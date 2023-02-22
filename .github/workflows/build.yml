@@ -1,6 +1,6 @@
 # Declaring env's
 env:
-  repo:             "https://github.com/Kurbanaliyev/app-deployer-ci-cd-" # Add the URL for the desired GitHub Repository to build and push
+  repo:             "https://github.com/getredash/redash" # Add the URL for the desired GitHub Repository to build and push
   app_version:      "1.0.0"
   repo_region:      "us-central1" # Specify Google Artifact Region
   app_name:         "redash" # Will be used as working directory must corresponed to the cloned repository name
