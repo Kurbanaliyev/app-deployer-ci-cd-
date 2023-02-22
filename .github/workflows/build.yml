@@ -16,7 +16,7 @@ name: Build and push Docker image
 on:
   push:
     branches:
-      - main
+      - master
 
   workflow_dispatch:    
   
